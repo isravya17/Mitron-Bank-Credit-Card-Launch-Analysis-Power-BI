@@ -15,6 +15,19 @@ This dashboard, built in Power BI, analyzes customer demographics, spending beha
 
 ## Power BI Dashboard
 
+Demographic Analysis
+
+![image](https://github.com/user-attachments/assets/01e0b64a-2a3e-4465-a33f-cece1c5e784f)
+
+Spend Analysis
+
+![image](https://github.com/user-attachments/assets/ffff1b7c-dfc2-4605-8c1b-76e78d69e87a)
+
+Full Grid View
+
+![image](https://github.com/user-attachments/assets/1db870f6-54ac-4762-a4d4-d9ebc7f9c7a5)
+
+
 ## Insights  
 
   - Salaried IT employees and freelancers have a high average income utilization %.  
